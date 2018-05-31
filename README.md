@@ -12,3 +12,7 @@
   - SSH etc..
 
 #### Kubernetes
+  - App Configuration
+  - Service Discovery
+  - Managing Updates
+  - Monitoring
