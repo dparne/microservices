@@ -16,3 +16,5 @@
   - Service Discovery
   - Managing Updates
   - Monitoring
+  ###### Pods
+    - Logical Application, Shared Volumes and Namespace. One IP for Pod
