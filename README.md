@@ -18,3 +18,11 @@
   - Monitoring
   ###### Pods
     - Logical Application, Shared Volumes and Namespace. One IP for Pod
+  ###### Services
+    - TODO
+  ###### Deployments
+    - TODO
+  ###### Replicas
+    - TODO
+  ###### Rollouts
+    - TODO
